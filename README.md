@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑습니다 👋
 
 <!--
 **Ji-geon-woo/Ji-geon-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 새롭게 배운 점을 생각하는 걸 좋아하는 개발자가 되도록 노력하는 고등학생 Ji-geon-woo 입니다.
+#### 현재 Front-end 개발자가 되기 위해 Vue.js를 공부하고 있습니다!
+#### 아직은 부족한점이 많지만, 그 부족한걸 채워나가는데 노력하겠습니다 :)
+
+##### 광주소프트웨어마이스터고등학교 재학중 (2019.03 ~ )
